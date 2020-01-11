@@ -1,0 +1,25 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "Vending machine",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdinK1/vending-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdinK1/vending-machine/issues"
+  },
+  "homepage": "https://github.com/EdinK1/vending-machine#readme",
+  "devDependencies": {
+    "jest-cli": "^24.9.0"
+  }
+}
